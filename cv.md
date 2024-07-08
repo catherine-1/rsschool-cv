@@ -11,7 +11,7 @@
 
 ### About experience
 
-In 2019, as a freshly graduated tourism specialist I began my career as a **researcher of financial fraud on the Internet**. Despite having minimal skills in this specialized field, my passion and determination helped me build a **5-year career**. My professional experience required me to learn new things daily and quickly grasp abstract and high-tech concepts.
+In 2019, as a freshly graduated tourism specialist I began my career as a **Research Analyst**. Despite having minimal skills in this specialized field, my passion and determination helped me build a **5-year career**. My professional experience required me to learn new things daily and quickly grasp abstract and high-tech concepts.
 
 Gradually, I developed an interest in programming and completed a JavaScript course on Codecademy. I am drawn to Web Development because it allows me to apply my creativity while continuously learning and evolving.
 
