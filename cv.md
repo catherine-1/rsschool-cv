@@ -6,7 +6,6 @@
 - Location: Warsaw, Poland
 - [Linkedin](https://www.linkedin.com/in/katsiaryna-valachko-a7110a162/)
 - GitHub: [catherine-1](https://github.com/catherine-1)
-- Email: volochko.ekaterina@gmail.com
 - Discord: Kate (@catherine-1)
 
 ### About experience
